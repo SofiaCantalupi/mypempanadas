@@ -154,6 +154,17 @@ header {
     text-align: center;
 }
 
+.logowsp {
+    position: fixed;
+    right: 45px;
+    bottom: 35px;
+}
+
+.logowsp img {
+   height: 85px; 
+   width: 85px;
+}
+
 footer {
     text-align: center;
     padding-top: 100px;
